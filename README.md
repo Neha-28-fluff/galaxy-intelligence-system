@@ -68,8 +68,8 @@ galaxy-ml-project/
 
 ## Daily Progress Log
 
-- **Day 1:** Project setup, Python/Colab review, repo initialized [link to notebook]
-- **Day 2:** Data loading, pandas/numpy intro, EDA [link to notebook]
+- **Day 1:** Project setup, Python/Colab review, repo initialized
+- **Day 2:** Data loading, pandas/numpy intro, EDA
 - _(keep adding as you go)_
 
 ---
@@ -84,18 +84,8 @@ galaxy-ml-project/
 
 ---
 
-## Getting Started
-
-1. Clone this repo
-2. Install dependencies (`pip install -r requirements.txt`)
-3. Use [Google Colab](https://colab.research.google.com/) or Jupyter to run notebooks in `/notebooks`
-4. Download datasets and place in `/data` (update paths as needed)
-5. Follow along with daily notebooks, or edit and expand your own!
-
----
-
 ## License
 
-[MIT](LICENSE) © [Your Name or GitHub Username]
+[MIT](LICENSE)
 
 ---
